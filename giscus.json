@@ -1,5 +1,6 @@
 {
   "origins": [
+    "http://locahost",
     "https://vspiewak.com"
   ]
 }
