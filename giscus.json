@@ -1,6 +1,6 @@
 {
   "origins": [
-    "http://locahost",
+    "http://localhost:4321",
     "https://vspiewak.com"
   ]
 }
